@@ -1,2 +1,3 @@
 # git_test
-Hello Odin!
+Hello, Melvin the zesty gay gal!
+Coding stuff, create website and whatnot, for future work ba, enhancing skills lang gud.
